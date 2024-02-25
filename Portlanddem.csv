@@ -1,0 +1,501 @@
+﻿Person,Address,AGE,Interest ,Enviornmental,Infastructure ,Education,Zoning,Safety 
+1,West End,25,Enviroment ,5,2,3,1,3
+2,Parkside,49,Saftey  ,1,1,5,2,4
+3,East Bayside,26,Education,1,3,5,2,2
+4,East Bayside,24,Safety,3,2,5,3,5
+5,East End,36,Safety,1,1,3,4,5
+6,Parkside,50,Infrastructure,1,5,1,4,3
+7,Bayside,51,Infrastructure,1,5,3,2,1
+8,East End,43,Infrastructure,2,5,1,3,3
+9,Deering,44,Zoning,2,1,3,5,3
+10,Bayside,47,Infrastructure,1,5,2,3,1
+11,Bayside,19,Education,1,1,5,3,4
+12,Bayside,26,Zoning,1,1,3,5,4
+13,Munjoy Hill,49,Zoning,1,2,3,5,1
+14,Munjoy Hill,23,Zoning,1,2,3,5,3
+15,Parkside,33,Infrastructure,1,5,2,3,3
+16,East Bayside,22,Infrastructure,1,5,2,3,1
+17,Deering,32,Infrastructure,1,5,1,3,3
+18,Parkside,46,Education,3,1,5,2,4
+19,Bayside,54,Education,2,1,5,3,1
+20,West End,39,Education,1,2,5,3,3
+21,Back Cove,54,Safety,1,4,3,2,5
+22,Munjoy Hill,53,Infrastructure,3,5,2,3,1
+23,Back Cove,18,Safety,1,1,2,3,5
+24,Munjoy Hill,54,Zoning,1,3,1,5,3
+25,Back Cove,56,Infrastructure,2,5,1,4,3
+26,East Bayside,56,Safety,1,2,3,1,5
+27,Munjoy Hill,49,Safety,3,2,1,3,5
+28,Deering,43,Safety,1,3,3,2,5
+29,Old Port,39,Environmental,5,2,1,1,3
+30,Bayside,45,Environmental,5,1,3,2,1
+31,Old Port,45,Education,3,1,5,2,3
+32,East End,29,Zoning,2,1,1,5,3
+33,Highlands,23,Safety,1,3,1,4,5
+34,Old Port,43,Infrastructure,1,5,3,3,1
+35,Back Cove,19,Safety,3,2,2,1,5
+36,Deering,34,Safety,1,1,3,3,5
+37,Bayside,48,Safety,2,1,3,3,5
+38,Munjoy Hill,24,Zoning,1,3,2,5,1
+39,Back Cove,55,Safety,1,2,1,3,5
+40,Munjoy Hill,54,Education,3,3,5,1,4
+41,Munjoy Hill,21,Education,1,3,5,4,2
+42,West End,27,Infrastructure,1,5,3,3,1
+43,East End,40,Zoning,1,2,2,5,3
+44,Bayside,50,Education,1,1,5,3,2
+45,Back Cove,43,Education,2,2,5,3,3
+46,Deering,22,Environmental,5,3,1,3,1
+47,Munjoy Hill,46,Zoning,1,1,3,5,4
+48,Munjoy Hill,37,Infrastructure,1,5,4,2,3
+49,Highlands,33,Safety,3,2,1,2,5
+50,Parkside,49,Environmental,5,2,2,3,1
+51,Back Cove,55,Zoning,4,2,1,5,3
+52,Munjoy Hill,34,Environmental,5,3,1,2,4
+53,Parkside,39,Education,1,1,5,3,3
+54,East Bayside,44,Safety,1,3,2,4,5
+55,Bayside,49,Infrastructure,1,5,3,2,2
+56,Munjoy Hill,54,Zoning,1,2,3,5,1
+57,Highlands,36,Infrastructure,1,5,3,2,3
+58,West End,39,Safety,3,3,2,1,5
+59,East End,30,Safety,1,1,2,3,5
+60,Back Cove,22,Infrastructure,3,5,4,4,1
+61,East Bayside,46,Zoning,1,1,3,5,3
+62,Munjoy Hill,40,Environmental,5,2,3,2,1
+63,Parkside,42,Infrastructure,1,5,1,3,3
+64,East Bayside,48,Education,2,2,5,1,3
+65,West End,41,Zoning,1,3,3,5,1
+66,West End,23,Zoning,2,2,4,5,4
+67,Deering,46,Education,1,1,5,3,3
+68,West End,34,Safety,1,2,3,2,5
+69,Deering,37,Education,1,1,5,3,3
+70,Deering,50,Zoning,2,2,1,5,3
+71,East End,37,Environmental,5,3,3,1,1
+72,Bayside,48,Safety,1,3,4,4,5
+73,Old Port,33,Environmental,5,2,2,3,5
+74,Back Cove,50,Environmental,5,3,2,1,4
+75,Back Cove,49,Education,1,1,5,3,4
+76,Old Port,50,Environmental,5,2,2,3,1
+77,East Bayside,31,Zoning,1,4,4,5,3
+78,Parkside,44,Zoning,4,2,3,5,2
+79,West End,37,Zoning,2,1,3,5,2
+80,East Bayside,31,Zoning,2,1,3,5,4
+81,Highlands,35,Environmental,5,3,3,1,1
+82,Deering,33,Environmental,5,2,3,1,1
+83,Old Port,39,Zoning,1,3,3,5,2
+84,East Bayside,44,Zoning,3,2,1,5,3
+85,East End,54,Zoning,1,2,3,5,1
+86,Bayside,47,Education,3,1,5,1,4
+87,Deering,53,Environmental,5,2,1,3,4
+88,West End,32,Environmental,5,1,3,3,1
+89,Bayside,54,Safety,3,3,2,1,5
+90,Munjoy Hill,52,Environmental,5,1,3,3,2
+91,Highlands,54,Infrastructure,1,5,2,3,1
+92,Deering,21,Education,1,2,5,3,3
+93,West End,20,Safety,2,2,1,3,5
+94,Highlands,25,Education,1,1,5,3,3
+95,West End,49,Zoning,1,4,1,5,3
+96,Old Port,22,Education,3,2,5,1,1
+97,Munjoy Hill,44,Education,1,2,5,3,3
+98,West End,32,Safety,3,1,3,1,5
+99,Munjoy Hill,29,Infrastructure,3,5,2,1,2
+100,Back Cove,36,Education,3,2,5,3,1
+101,Parkside,41,Infrastructure,1,5,4,1,3
+102,East End,50,Zoning,1,3,2,5,1
+103,Bayside,31,Education,2,1,5,3,3
+104,Deering,41,Education,1,1,5,3,3
+105,Munjoy Hill,45,Zoning,3,2,2,5,3
+106,Back Cove,35,Environmental,5,1,3,1,3
+107,Old Port,28,Infrastructure,1,5,1,4,3
+108,Deering,34,Infrastructure,1,5,3,1,2
+109,East End,31,Education,2,3,5,1,2
+110,West End,27,Infrastructure,2,5,1,3,3
+111,Back Cove,46,Environmental,5,1,3,2,3
+112,Back Cove,51,Zoning,1,1,2,5,3
+113,Highlands,24,Education,1,1,5,4,3
+114,East End,41,Zoning,1,3,5,5,4
+115,Parkside,36,Environmental,5,1,4,,3
+116,East Bayside,54,Zoning,1,3,2,5,1
+117,Parkside,23,Safety,1,1,2,3,5
+118,West End,48,Safety,3,3,2,1,5
+119,Deering,22,Infrastructure,1,5,3,3,2
+120,Deering,33,Environmental,5,2,1,1,3
+121,Highlands,47,Safety,1,1,3,4,5
+122,East Bayside,53,Infrastructure,3,5,5,3,1
+123,Deering,46,Zoning,1,5,2,5,3
+124,Highlands,30,Infrastructure,4,5,1,3,1
+125,Parkside,41,Zoning,2,,4,5,1
+126,Deering,52,Zoning,3,3,2,5,2
+127,Highlands,45,Infrastructure,3,5,1,2,1
+128,East Bayside,48,Safety,3,2,1,5,3
+129,Highlands,40,Environmental,5,2,2,3,1
+130,Highlands,35,Education,2,3,5,1,2
+131,Munjoy Hill,23,Infrastructure,1,5,3,1,3
+132,West End,51,Safety,1,3,2,4,5
+133,East End,47,Education,5,1,5,4,3
+134,Parkside,35,Environmental,5,1,3,3,1
+135,Back Cove,24,Education,1,2,5,3,2
+136,Munjoy Hill,19,Safety,3,3,1,1,5
+137,East Bayside,32,Education,3,1,5,1,3
+138,Back Cove,51,Safety,2,2,1,3,5
+139,Old Port,38,Infrastructure,3,5,3,2,2
+140,Back Cove,40,Zoning,1,1,3,5,4
+141,Old Port,24,Safety,1,3,5,4,5
+142,East Bayside,23,Environmental,5,3,1,4,1
+143,Old Port,56,Safety,2,1,3,1,5
+144,Deering,56,Zoning,3,2,1,5,3
+145,Old Port,23,Education,1,3,5,2,3
+146,Parkside,50,Education,3,2,5,1,3
+147,Back Cove,55,Infrastructure,1,5,2,3,1
+148,Bayside,35,Environmental,5,3,1,2,4
+149,East End,22,Environmental,5,1,3,3,1
+150,Bayside,52,Infrastructure,1,5,2,3,3
+151,Highlands,34,Zoning,3,1,2,5,3
+152,Back Cove,41,Safety,2,1,1,3,5
+153,Parkside,28,Education,1,3,5,1,3
+154,Deering,29,Education,1,2,5,3,1
+155,Munjoy Hill,28,Education,1,3,5,3,4
+156,Back Cove,22,Environmental,5,3,1,4,1
+157,Bayside,51,Safety,1,1,3,2,5
+158,East End,28,Safety,3,2,1,3,5
+159,Highlands,28,Education,1,2,5,3,3
+160,Old Port,26,Environmental,5,2,3,1,1
+161,Highlands,35,Zoning,1,2,3,5,4
+162,West End,54,Safety,1,1,3,4,5
+163,Back Cove,39,Education,1,2,5,3,1
+164,East End,55,Zoning,1,2,3,5,3
+165,Parkside,28,Zoning,1,2,3,5,3
+166,Bayside,34,Zoning,1,2,3,5,1
+167,East End,26,Zoning,1,1,3,5,3
+168,Highlands,39,Education,1,3,5,2,4
+169,Highlands,22,Safety,3,3,1,4,5
+170,Parkside,47,Safety,1,3,3,1,5
+171,Deering,38,Education,2,2,5,3,1
+172,Parkside,55,Zoning,1,1,3,5,3
+173,West End,54,Zoning,4,1,3,5,2
+174,Bayside,50,Safety,3,1,2,2,5
+175,Bayside,30,Education,2,2,5,3,1
+176,Back Cove,33,Education,2,2,5,1,3
+177,West End,36,Infrastructure,1,5,2,3,4
+178,Highlands,36,Infrastructure,3,5,1,3,1
+179,East End,43,Zoning,1,3,2,5,3
+180,Munjoy Hill,24,Education,3,1,5,2,3
+181,Back Cove,18,Infrastructure,2,5,1,1,3
+182,Munjoy Hill,24,Infrastructure,1,5,3,4,1
+183,Bayside,18,Safety,3,3,5,4,5
+184,East End,35,Zoning,1,4,1,5,3
+185,Back Cove,38,Environmental,5,1,2,3,1
+186,Old Port,36,Education,3,1,5,3,2
+187,Back Cove,36,Safety,2,3,3,1,5
+188,Munjoy Hill,25,Education,2,3,5,1,1
+189,East End,28,Safety,1,3,4,1,5
+190,Back Cove,49,Safety,3,3,1,5,5
+191,Parkside,34,Zoning,3,2,3,5,4
+192,Bayside,53,Infrastructure,3,5,1,4,1
+193,Back Cove,21,Infrastructure,2,5,3,1,2
+194,Munjoy Hill,22,Safety,2,1,2,3,5
+195,Deering,25,Infrastructure,1,5,2,3,2
+196,West End,36,Infrastructure,1,5,2,1,3
+197,Munjoy Hill,39,Education,1,2,5,3,1
+198,Back Cove,41,Environmental,5,3,1,3,4
+199,Old Port,41,Zoning,3,2,3,5,4
+200,East Bayside,54,Infrastructure,3,5,1,3,1
+201,East End,37,Safety,1,2,2,3,5
+202,Old Port,42,Education,3,1,5,1,3
+203,Back Cove,28,Infrastructure,2,5,1,3,3
+204,Munjoy Hill,44,Safety,1,1,3,2,5
+205,West End,55,Safety,3,3,1,4,5
+206,Deering,56,Zoning,3,2,1,5,3
+207,West End,43,Zoning,3,2,1,5,1
+208,Back Cove,30,Infrastructure,2,5,1,3,3
+209,East Bayside,30,Education,2,1,5,3,3
+210,West End,36,Safety,3,1,2,3,5
+211,East End,36,Safety,1,1,2,3,5
+212,Deering,21,Infrastructure,1,5,1,3,4
+213,Highlands,52,Education,1,1,5,3,3
+214,Back Cove,42,Safety,1,2,1,2,5
+215,Highlands,50,Infrastructure,2,5,1,3,3
+216,Parkside,27,Zoning,3,2,1,5,3
+217,Parkside,40,Safety,3,1,3,2,5
+218,Munjoy Hill,28,Environmental,5,1,2,2,3
+219,West End,33,Infrastructure,3,5,2,4,3
+220,Back Cove,35,Environmental,5,1,3,3,1
+221,Bayside,28,Environmental,5,2,3,3,1
+222,East End,25,Infrastructure,1,5,3,2,3
+223,Back Cove,33,Education,3,1,5,2,2
+224,West End,39,Infrastructure,3,5,2,1,1
+225,Highlands,26,Education,1,2,5,2,3
+226,Deering,30,Education,2,2,5,1,3
+227,Highlands,24,Environmental,5,2,2,3,1
+228,Munjoy Hill,32,Environmental,5,1,4,2,3
+229,Munjoy Hill,19,Environmental,5,4,3,1,1
+230,Back Cove,45,Safety,1,5,3,3,5
+231,East Bayside,34,Safety,3,2,4,1,5
+232,Parkside,37,Safety,1,1,3,3,5
+233,East Bayside,32,Education,1,3,5,2,4
+234,Parkside,31,Zoning,2,1,2,5,3
+235,Old Port,40,Infrastructure,1,5,3,2,3
+236,Munjoy Hill,33,Zoning,3,2,1,5,3
+237,Back Cove,40,Infrastructure,1,5,3,1,2
+238,Munjoy Hill,54,Safety,3,2,1,4,5
+239,Parkside,45,Infrastructure,1,5,3,1,4
+240,Back Cove,32,Education,1,1,5,3,4
+241,Old Port,18,Safety,1,1,2,3,5
+242,Deering,32,Education,2,1,5,3,3
+243,East End,46,Education,4,1,5,3,3
+244,Bayside,28,Education,1,3,5,2,1
+245,Old Port,48,Safety,1,3,2,1,5
+246,Back Cove,55,Infrastructure,5,5,3,1,1
+247,Deering,30,Environmental,5,3,2,4,1
+248,Deering,34,Education,1,3,5,1,3
+249,Parkside,50,Infrastructure,4,5,1,2,1
+250,Munjoy Hill,27,Infrastructure,3,5,1,4,3
+251,Back Cove,18,Education,2,1,5,1,3
+252,Parkside,35,Zoning,1,3,2,5,1
+253,East Bayside,29,Environmental,5,1,4,3,3
+254,Parkside,47,Environmental,5,1,2,5,1
+255,Munjoy Hill,29,Zoning,1,3,1,5,4
+256,Bayside,42,Infrastructure,2,5,3,1,1
+257,Deering,40,Education,2,1,5,3,3
+258,Deering,40,Safety,3,1,2,3,5
+259,Bayside,46,Infrastructure,1,5,2,3,1
+260,Munjoy Hill,42,Environmental,5,1,1,3,4
+261,Bayside,22,Education,1,1,5,4,3
+262,Parkside,20,Safety,1,1,4,2,5
+263,Old Port,50,Environmental,5,3,1,3,3
+264,West End,36,Zoning,2,2,1,5,1
+265,Deering,40,Education,3,1,5,2,2
+266,Parkside,29,Education,3,4,5,2,1
+267,West End,20,Zoning,1,1,5,5,3
+268,Back Cove,46,Infrastructure,3,5,4,1,3
+269,West End,56,Safety,3,1,2,1,5
+270,Bayside,50,Safety,3,2,1,1,5
+271,Parkside,30,Infrastructure,3,5,1,2,3
+272,Bayside,44,Safety,1,1,3,2,5
+273,Old Port,23,Infrastructure,2,5,1,3,3
+274,Munjoy Hill,56,Infrastructure,2,5,3,1,2
+275,East Bayside,53,Safety,4,3,3,2,5
+276,Old Port,31,Zoning,1,3,1,5,3
+277,Bayside,23,Zoning,3,1,2,5,3
+278,East Bayside,39,Infrastructure,2,5,3,1,3
+279,Old Port,55,Zoning,1,3,1,5,2
+280,Highlands,34,Environmental,5,2,3,1,2
+281,Parkside,24,Education,1,4,5,1,2
+282,Back Cove,40,Environmental,5,1,4,3,1
+283,Old Port,49,Safety,1,1,3,3,5
+284,Highlands,19,Education,1,2,5,1,2
+285,West End,42,Environmental,5,3,1,1,2
+286,West End,46,Infrastructure,1,5,2,2,1
+287,West End,18,Environmental,5,3,2,2,3
+288,East End,55,Zoning,1,4,3,5,1
+289,East End,26,Safety,3,2,4,3,5
+290,Back Cove,40,Zoning,1,1,5,5,1
+291,Parkside,44,Zoning,3,2,3,5,4
+292,East End,54,Infrastructure,1,5,3,3,1
+293,Parkside,39,Environmental,5,2,1,1,3
+294,Bayside,22,Education,2,1,5,3,4
+295,Old Port,33,Safety,1,1,2,3,5
+296,East End,19,Environmental,5,1,2,3,1
+297,Highlands,25,Environmental,5,1,3,3,4
+298,Munjoy Hill,27,Education,2,3,5,3,1
+299,Highlands,53,Environmental,5,2,3,1,1
+300,Parkside,25,Education,1,3,5,4,3
+301,Highlands,19,Zoning,1,2,1,5,5
+302,Bayside,26,Infrastructure,1,5,3,1,4
+303,Old Port,50,Zoning,1,3,4,5,1
+304,Bayside,36,Education,2,3,5,1,1
+305,East Bayside,19,Zoning,2,1,1,5,1
+306,East Bayside,47,Zoning,3,1,2,5,3
+307,Back Cove,42,Safety,1,1,5,3,5
+308,Munjoy Hill,32,Infrastructure,1,5,1,4,1
+309,Old Port,45,Infrastructure,1,5,1,2,3
+310,West End,50,Education,1,3,5,2,1
+311,West End,29,Environmental,5,1,1,2,3
+312,Old Port,55,Safety,1,2,1,2,5
+313,Munjoy Hill,54,Environmental,5,1,3,1,3
+314,Old Port,48,Safety,1,1,3,4,5
+315,West End,33,Education,1,2,5,4,1
+316,Deering,27,Zoning,1,3,2,5,3
+317,Bayside,39,Infrastructure,2,5,2,1,1
+318,Back Cove,55,Education,2,1,5,3,2
+319,East End,28,Zoning,1,1,4,5,1
+320,East End,40,Safety,3,1,2,3,5
+321,Deering,34,Education,3,1,5,2,1
+322,East End,49,Environmental,5,1,1,3,3
+323,East Bayside,23,Safety,3,4,3,2,5
+324,Highlands,43,Environmental,5,1,3,1,3
+325,Deering,19,Safety,1,1,3,2,5
+326,West End,19,Education,1,2,5,1,2
+327,Back Cove,49,Safety,1,3,3,1,5
+328,Bayside,24,Safety,3,5,2,2,3
+329,Deering,21,Infrastructure,3,5,4,1,3
+330,Deering,32,Education,3,1,5,2,3
+331,Old Port,54,Education,2,3,5,3,1
+332,Back Cove,46,Zoning,1,2,4,5,3
+333,Munjoy Hill,31,Infrastructure,4,5,1,2,1
+334,Deering,19,Infrastructure,1,5,3,4,4
+335,Munjoy Hill,23,Environmental,5,2,1,2,4
+336,Munjoy Hill,21,Environmental,5,3,3,3,1
+337,Old Port,35,Environmental,5,1,1,4,4
+338,East End,33,Environmental,5,1,3,3,1
+339,Old Port,53,Environmental,5,2,2,3,4
+340,Munjoy Hill,39,Environmental,5,1,1,3,3
+341,Old Port,27,Environmental,5,3,2,2,3
+342,Munjoy Hill,23,Infrastructure,1,5,1,3,3
+343,West End,42,Education,3,3,5,1,4
+344,Bayside,22,Education,1,2,5,3,1
+345,Old Port,31,Infrastructure,3,5,2,1,3
+346,East End,26,Zoning,1,1,3,5,3
+347,West End,30,Education,3,2,5,2,1
+348,West End,46,Infrastructure,1,5,1,3,3
+349,Deering,27,Environmental,5,1,2,4,1
+350,West End,49,Safety,3,1,3,3,5
+351,Munjoy Hill,19,Zoning,1,2,3,5,3
+352,Deering,32,Safety,1,2,3,3,5
+353,Deering,40,Education,5,1,5,3,1
+354,West End,26,Education,1,4,5,1,4
+355,Highlands,52,Infrastructure,1,5,3,3,1
+356,Parkside,52,Safety,3,3,2,2,5
+357,Munjoy Hill,54,Zoning,3,1,1,5,2
+358,West End,18,Zoning,1,3,1,5,3
+359,Parkside,20,Zoning,2,2,2,5,1
+360,West End,46,Infrastructure,3,5,1,3,1
+361,Bayside,54,Education,1,4,5,1,4
+362,Highlands,54,Zoning,1,5,3,5,1
+363,Munjoy Hill,45,Environmental,5,4,1,2,1
+364,Highlands,54,Zoning,3,3,3,5,1
+365,Back Cove,54,Infrastructure,1,5,1,2,5
+366,Old Port,53,Infrastructure,3,5,3,4,1
+367,Munjoy Hill,42,Infrastructure,1,5,3,2,1
+368,Bayside,38,Education,3,2,5,1,1
+369,Deering,39,Infrastructure,1,5,1,3,3
+370,Parkside,54,Infrastructure,3,5,2,2,3
+371,East End,35,Safety,1,1,3,3,5
+372,Bayside,26,Zoning,1,2,1,5,4
+373,Munjoy Hill,55,Infrastructure,1,5,3,3,1
+374,Highlands,27,Environmental,5,2,1,3,3
+375,Old Port,18,Education,1,3,5,2,3
+376,West End,32,Safety,3,1,3,3,5
+377,Munjoy Hill,23,Zoning,3,4,2,5,1
+378,Parkside,54,Infrastructure,5,5,1,3,1
+379,East End,29,Environmental,5,3,4,1,1
+380,Deering,31,Education,1,3,5,2,1
+381,Bayside,29,Zoning,2,1,3,5,1
+382,Deering,56,Safety,1,3,3,1,5
+383,West End,24,Environmental,5,2,2,3,3
+384,Deering,26,Environmental,5,3,3,1,1
+385,East End,32,Infrastructure,4,5,1,4,1
+386,West End,54,Environmental,5,3,4,2,2
+387,Munjoy Hill,37,Safety,1,3,2,1,5
+388,Old Port,18,Safety,2,3,3,1,5
+389,East Bayside,56,Environmental,5,1,3,3,2
+390,Highlands,54,Infrastructure,2,5,2,3,1
+391,Munjoy Hill,55,Safety,1,1,2,3,5
+392,Highlands,25,Environmental,5,1,3,4,3
+393,West End,53,Infrastructure,2,5,3,1,3
+394,Parkside,55,Zoning,3,2,3,5,2
+395,Deering,22,Zoning,1,2,3,5,2
+396,Bayside,39,Education,1,2,5,3,3
+397,Munjoy Hill,27,Infrastructure,1,5,2,3,1
+398,Munjoy Hill,44,Education,2,2,5,3,4
+399,Highlands,21,Safety,1,3,1,3,5
+400,West End,36,Infrastructure,3,5,2,2,1
+401,East End,54,Safety,1,1,3,1,5
+402,Parkside,27,Environmental,5,2,3,3,3
+403,West End,32,Infrastructure,1,5,3,1,2
+404,Back Cove,22,Infrastructure,3,5,1,4,3
+405,West End,18,Education,1,2,5,1,4
+406,Parkside,42,Education,3,1,5,3,1
+407,Bayside,18,Education,1,2,5,3,3
+408,West End,19,Safety,1,2,4,2,5
+409,Deering,55,Zoning,3,2,3,5,1
+410,Deering,42,Environmental,5,2,3,1,2
+411,East Bayside,47,Environmental,5,1,1,4,2
+412,East Bayside,51,Zoning,1,1,3,5,3
+413,East End,37,Education,3,1,5,2,3
+414,West End,41,Safety,2,3,1,3,5
+415,Old Port,45,Environmental,5,2,3,1,3
+416,Bayside,56,Education,1,3,5,4,1
+417,Highlands,28,Environmental,5,3,3,3,4
+418,East End,52,Infrastructure,1,5,1,3,4
+419,Bayside,50,Environmental,5,3,2,3,1
+420,Highlands,39,Environmental,5,1,2,3,3
+421,West End,23,Zoning,1,1,3,5,3
+422,Bayside,43,Zoning,2,2,3,5,3
+423,West End,37,Zoning,1,3,3,5,1
+424,Old Port,39,Environmental,5,1,4,4,1
+425,Back Cove,34,Safety,1,3,1,3,5
+426,Munjoy Hill,36,Zoning,4,2,2,5,4
+427,Back Cove,44,Infrastructure,1,5,2,2,1
+428,Old Port,20,Zoning,3,2,3,5,1
+429,Deering,32,Safety,4,1,2,3,5
+430,Old Port,50,Environmental,5,3,1,1,4
+431,Back Cove,30,Infrastructure,4,5,1,5,1
+432,Deering,26,Zoning,1,4,2,5,1
+433,Bayside,38,Infrastructure,5,2,3,3,1
+434,West End,43,Environmental,5,2,4,4,1
+435,Parkside,51,Safety,4,4,1,2,5
+436,Munjoy Hill,34,Infrastructure,2,5,3,1,2
+437,Highlands,47,Zoning,1,4,4,5,2
+438,East End,32,Infrastructure,1,5,3,3,1
+439,Back Cove,28,Environmental,5,4,2,2,3
+440,East End,46,Safety,1,4,1,3,5
+441,Old Port,56,Zoning,4,3,3,5,1
+442,East End,32,Zoning,1,4,2,5,2
+443,Deering,23,Environmental,5,3,2,1,2
+444,Bayside,54,Environmental,5,3,2,1,3
+445,Deering,56,Education,4,3,5,3,2
+446,East End,32,Infrastructure,4,5,1,3,1
+447,Deering,40,Environmental,5,4,3,1,1
+448,Deering,32,Safety,4,2,3,4,5
+449,Munjoy Hill,35,Safety,1,3,3,2,5
+450,Highlands,22,Education,3,1,5,2,3
+451,East Bayside,27,Infrastructure,3,5,1,2,4
+452,Munjoy Hill,55,Infrastructure,2,5,4,4,3
+453,Old Port,56,Zoning,2,2,3,5,1
+454,West End,55,Education,1,4,5,2,4
+455,East Bayside,26,Education,2,3,5,4,2
+456,Bayside,24,Education,4,3,5,1,1
+457,Old Port,39,Safety,2,1,3,4,5
+458,West End,38,Safety,3,1,2,3,5
+459,East Bayside,38,Safety,4,4,1,3,5
+460,Bayside,51,Safety,1,4,3,2,5
+461,East End,33,Environmental,5,2,4,3,3
+462,Old Port,23,Zoning,1,3,4,5,3
+463,Highlands,54,Zoning,1,4,2,5,1
+464,Back Cove,51,Zoning,3,2,2,5,3
+465,Deering,23,Education,3,2,5,1,3
+466,East Bayside,29,Infrastructure,2,5,1,3,3
+467,East Bayside,30,Zoning,1,3,4,5,4
+468,Deering,55,Safety,3,2,1,3,5
+469,Back Cove,27,Safety,4,2,4,3,5
+470,East End,36,Zoning,1,2,3,5,4
+471,Bayside,26,Zoning,2,2,4,5,1
+472,Munjoy Hill,29,Safety,1,1,3,2,5
+473,Munjoy Hill,38,Zoning,1,2,3,5,1
+474,Deering,26,Infrastructure,1,5,4,1,3
+475,Parkside,29,Education,5,2,4,4,2
+476,Munjoy Hill,53,Education,5,2,3,3,2
+477,East Bayside,37,Safety,2,3,1,4,5
+478,East End,47,Environmental,5,2,3,4,3
+479,West End,37,Education,1,3,5,2,3
+480,Old Port,36,Safety,3,2,1,3,5
+481,West End,41,Environmental,5,1,3,2,4
+482,Bayside,29,Infrastructure,2,5,3,4,3
+483,Deering,35,Education,2,3,5,2,5
+484,Parkside,20,Environmental,5,2,4,4,2
+485,East Bayside,26,Environmental,5,1,3,4,1
+486,Back Cove,19,Education,1,2,5,1,3
+487,West End,19,Environmental,5,1,4,2,3
+488,Back Cove,48,Zoning,3,3,1,5,2
+489,West End,35,Education,4,2,5,4,3
+490,Old Port,24,Safety,3,1,1,3,5
+491,Old Port,37,Safety,3,4,2,3,5
+492,Munjoy Hill,37,Safety,2,1,3,2,5
+493,Deering,35,Infrastructure,3,5,,2,
+494,Deering,33,Environmental,5,2,1,4,4
+495,Parkside,33,Safety,3,2,1,3,5
+496,Back Cove,48,Education,3,1,5,3,1
+497,East Bayside,36,Zoning,3,4,3,5,2
+498,Back Cove,41,Zoning,2,1,3,5,2
+499,Deering,26,Infrastructure,3,5,1,2,1
+500,East Bayside,32,Education,3,2,5,3,1
