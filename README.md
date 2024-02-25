@@ -24,4 +24,3 @@ The project utilizes two datasets—Portland citizen demographic data and a text
 3. Further Optimization: Despite efforts,the project faces challenges in accurately predicting optimal policies and constructing a targeted recommendation system. Explore additional techniques and strategies to enhance the precision of policy predictions and recommendation systems.
 
 
-
