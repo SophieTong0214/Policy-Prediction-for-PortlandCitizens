@@ -24,3 +24,21 @@ The project utilizes two datasets—Portland citizen demographic data and a text
 3. Further Optimization: Despite efforts,the project faces challenges in accurately predicting optimal policies and constructing a targeted recommendation system. Explore additional techniques and strategies to enhance the precision of policy predictions and recommendation systems.
 
 
+## Appendix
+<p align="center">
+![1](https://github.com/SophieTong0214/Policy-Prediction-for-PortlandCitizens/assets/134361472/31f69c53-999f-4ebd-8ab4-d00605e118c1)
+![2](https://github.com/SophieTong0214/Policy-Prediction-for-PortlandCitizens/assets/134361472/b47bad4b-0023-48f3-a61f-d5c0834a307c)
+![3](https://github.com/SophieTong0214/Policy-Prediction-for-PortlandCitizens/assets/134361472/e6d0c86f-fd8e-4cec-9e65-8eba79f62e1e)
+![4](https://github.com/SophieTong0214/Policy-Prediction-for-PortlandCitizens/assets/134361472/ba4a501c-b82b-44d1-a455-5faa7414c01e)
+![5](https://github.com/SophieTong0214/Policy-Prediction-for-PortlandCitizens/assets/134361472/d85f32a8-505f-49d5-acfd-57d9ed363240)
+![6](https://github.com/SophieTong0214/Policy-Prediction-for-PortlandCitizens/assets/134361472/0f6a9c3c-6de7-4a3e-854b-5a99f231c908)
+![7](https://github.com/SophieTong0214/Policy-Prediction-for-PortlandCitizens/assets/134361472/1c4fc7a6-ad78-4294-8120-89af6a38abf3)
+![8](https://github.com/SophieTong0214/Policy-Prediction-for-PortlandCitizens/assets/134361472/4250138f-5b7e-402c-9bf3-e545c2b8468f)
+![9](https://github.com/SophieTong0214/Policy-Prediction-for-PortlandCitizens/assets/134361472/0e1aa95b-e053-4916-b2ee-1e5bfc2a3dc0)
+![10](https://github.com/SophieTong0214/Policy-Prediction-for-PortlandCitizens/assets/134361472/2230a096-1f53-4fca-b24d-d81ea2d41fce)
+</p>
+
+
+
+
+
